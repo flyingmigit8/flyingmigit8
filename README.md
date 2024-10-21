@@ -1,4 +1,4 @@
- I’m Caleb. In 2020 graduated from Conestoga with a 3 year advanced diploma in Business Administration - Management.
+ I’m Caleb. In I 2020 graduated from Conestoga with a 3 year advanced diploma in Business Administration - Management.
  Now I'm in Software Engineering Technology!
  
 My interests include automation and the creation of new programs focused on helping businesses solve their problems.
